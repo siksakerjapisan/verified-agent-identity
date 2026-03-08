@@ -8,7 +8,7 @@ on:
         required: true
         default: 'siksakerjapisan'
       agent_description:
-        description: 'Deskripsi Agen'
+        description: 'siksakerjapisan'
         required: true
         default: 'AI Agent'
 
